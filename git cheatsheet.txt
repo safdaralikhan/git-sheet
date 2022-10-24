@@ -1,0 +1,23 @@
+initialize a new git repository.
+how to commit 
+git add . (add file at the staging area).
+git commit -m "your commit " ().
+
+HOW TO CONNECT LOCAL REPOSITORY TO REMOTE REPOSITORY
+
+git remote add origin token@github.com/SubhanShah22/defbayAdmin.git
+
+HOW TO CLONE PROJECT FROM SPECIFIC REPOSITORY
+
+git clone -b branchname (repo url)
+
+HOW TO CREATE NEW BRANCH 
+git branch (brnachname)
+
+CHANGE THE BRANCH 
+git checkout (branchname)
+
+GO TO PREVIOUS COMMIT 
+git reset --hard
+
+
