@@ -7,6 +7,12 @@ HOW TO CONNECT LOCAL REPOSITORY TO REMOTE REPOSITORY
 
 git remote add origin token@github.com/SubhanShah22/defbayAdmin.git
 
+fetch all branches of repo
+git fetch 
+
+to check itis connect with repo or not.
+git remote -v 
+
 HOW TO CLONE PROJECT FROM SPECIFIC REPOSITORY
 
 git clone -b branchname (repo url)
